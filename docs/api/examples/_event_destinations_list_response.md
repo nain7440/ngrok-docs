@@ -6,10 +6,10 @@
 {
 	"event_destinations": [
 		{
-			"created_at": "2024-12-17T10:07:06Z",
+			"created_at": "2024-12-18T10:07:52Z",
 			"description": "kinesis dev stream",
 			"format": "json",
-			"id": "ed_2qL7VnETw7IjPCk5aQqUEimIvrZ",
+			"id": "ed_2qNwj5TZ3mHDMdCZV1nf7d9sceB",
 			"metadata": "{\"environment\":\"dev\"}",
 			"target": {
 				"azure_logs_ingestion": null,
@@ -26,7 +26,7 @@
 					"stream_arn": "arn:ngrok-local:kinesis:us-east-2:123456789012:stream/mystream2"
 				}
 			},
-			"uri": "https://api.ngrok.com/event_destinations/ed_2qL7VnETw7IjPCk5aQqUEimIvrZ"
+			"uri": "https://api.ngrok.com/event_destinations/ed_2qNwj5TZ3mHDMdCZV1nf7d9sceB"
 		}
 	],
 	"next_page_uri": null,

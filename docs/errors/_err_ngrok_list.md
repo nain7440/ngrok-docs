@@ -3312,6 +3312,14 @@
     </tr>
     <tr>
       <td>
+        <a id="ERR_NGROK_1232" href="/docs/errors/err_ngrok_1232">ERR_NGROK_1232</a>
+      </td>
+      <td class="pre-wrapped">
+        We do not allow sign ups from anonymous proxies such as Tor.
+      </td>
+    </tr>
+    <tr>
+      <td>
         <a id="ERR_NGROK_1400" href="/docs/errors/err_ngrok_1400">ERR_NGROK_1400</a>
       </td>
       <td class="pre-wrapped">

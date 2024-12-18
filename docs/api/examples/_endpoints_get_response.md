@@ -5,23 +5,23 @@
 ```json
 {
 	"bindings": ["public"],
-	"created_at": "2024-12-17T10:07:05Z",
+	"created_at": "2024-12-18T10:07:51Z",
 	"description": "sample cloud endpoint",
 	"domain": {
-		"id": "rd_2qL7UqpYgAenMNQ7gszNku3lp1K",
-		"uri": "https://api.ngrok.com/reserved_domains/rd_2qL7UqpYgAenMNQ7gszNku3lp1K"
+		"id": "rd_2qNwiGkKyyCUGdkrZ0xJVnz0AK5",
+		"uri": "https://api.ngrok.com/reserved_domains/rd_2qNwiGkKyyCUGdkrZ0xJVnz0AK5"
 	},
 	"edge": {
-		"id": "edgtls_2qL7UjovDwglX1UcHYF9EY5shnm",
-		"uri": "https://api.ngrok.com/edges/tls/edgtls_2qL7UjovDwglX1UcHYF9EY5shnm"
+		"id": "edgtls_2qNwiChUhOALLpxoZM0Fmli9GpH",
+		"uri": "https://api.ngrok.com/edges/tls/edgtls_2qNwiChUhOALLpxoZM0Fmli9GpH"
 	},
 	"hostport": "endpoint-example2.com:443",
-	"id": "ep_2qL7VRpY1KAvRyvuCznXQUZAcs1",
+	"id": "ep_2qNwioIzjcR2m8P3CIOeIMoSk8O",
 	"proto": "https",
 	"public_url": "https://endpoint-example2.com",
 	"type": "cloud",
-	"updated_at": "2024-12-17T10:07:05Z",
-	"uri": "https://api.ngrok.com/endpoints/ep_2qL7VRpY1KAvRyvuCznXQUZAcs1",
+	"updated_at": "2024-12-18T10:07:51Z",
+	"uri": "https://api.ngrok.com/endpoints/ep_2qNwioIzjcR2m8P3CIOeIMoSk8O",
 	"url": "https://endpoint-example2.com"
 }
 ```

@@ -9,5 +9,5 @@ curl \
 -H "Content-Type: application/json" \
 -H "Ngrok-Version: 2" \
 -d '{"provider":"TWILIO","secret":"secret_token"}' \
-https://api.ngrok.com/endpoint_configurations/ec_2qL7ViL34c4qklrXOub2yqQdGjA/webhook_validation
+https://api.ngrok.com/endpoint_configurations/ec_2qNwixdSq01es13rpJ2htqnXZCP/webhook_validation
 ```
